@@ -1,0 +1,4 @@
+
+const funObj = {};
+funObj[360] = 'My House Number';
+console.log(funObj[360] === funObj['360']);
